@@ -23,7 +23,9 @@ Manual testing of **login and registration modules** for **https://www.aarong.co
   
 
 - **Bug Reports:** Detailed defects with severity and reproduction steps (Excel)  
-- **Test Plan:** Scope, objectives, and testing approach (Word)  
+- **Test Plan:** Scope, objectives, and testing approach (Google Docs)
+  <img width="830" height="472" alt="image" src="https://github.com/user-attachments/assets/809e8de8-6976-4699-9624-44686ab3315a" />
+
 - **RTM:** Requirement Traceability Matrix linking requirements to test cases (Excel)  
 
 ---

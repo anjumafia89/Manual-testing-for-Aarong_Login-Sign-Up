@@ -35,7 +35,7 @@ Manual testing of **login and Sign Up modules** for **https://www.aarong.com/bgd
 
 Login
 
- <img width="577" height="313" alt="Login" src="https://github.com/user-attachments/assets/b0f749f2-ce24-4609-ba16-1a102e701975" />
+<img width="577" height="349" alt="Login" src="https://github.com/user-attachments/assets/5a718425-9625-4218-88f7-d832cab32971" />
 
 
 - **Bug Reports:** Detailed defects with severity and reproduction steps (Excel)  

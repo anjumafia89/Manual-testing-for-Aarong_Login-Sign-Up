@@ -37,7 +37,7 @@ Manual testing of **login and Sign Up modules** for **https://www.aarong.com/bgd
  <img width="626" height="597" alt="Aarong Mind Map(L   S)" src="https://github.com/user-attachments/assets/d3203d5c-a8de-4413-bc4c-058a21c2a62e" />
 
    
- link:
+Embed Link:
   https://app.xmind.com/embed/vmaG8kyW?sheet-id=34e508c5-955b-4ab0-93a2-94036e5eccd9
 
 - **Bug Reports:** Detailed defects with severity and reproduction steps (Excel)  

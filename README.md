@@ -33,7 +33,8 @@ Manual testing of **login and Sign Up modules** for **https://www.aarong.com/bgd
 
 -**Mind Map:**Login & Sign UP(Xmind)
 
-  <img width="350" height="178" alt="image" src="https://github.com/user-attachments/assets/45e23154-a0a3-4301-a4f5-cc485a129bc5" />
+
+ <img width="626" height="597" alt="Aarong Mind Map(L   S)" src="https://github.com/user-attachments/assets/d3203d5c-a8de-4413-bc4c-058a21c2a62e" />
 
    
  link:

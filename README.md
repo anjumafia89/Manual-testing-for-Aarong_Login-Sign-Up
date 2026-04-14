@@ -29,7 +29,7 @@ Manual testing of **login and Sign Up modules** for **https://www.aarong.com/bgd
   <img width="830" height="472" alt="image" src="https://github.com/user-attachments/assets/809e8de8-6976-4699-9624-44686ab3315a" />
   <img width="545" height="520" alt="image" src="https://github.com/user-attachments/assets/f8c9f6f5-a385-4bdf-b225-d35fbf96aba9" />
 
--Test Scenario
+-**Test Scenario:**Login & Signup
 
  <img width="557" height="458" alt="image" src="https://github.com/user-attachments/assets/9971b491-a647-4529-9a41-1f6d0c9fecfa" />
 

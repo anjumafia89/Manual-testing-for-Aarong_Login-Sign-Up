@@ -28,12 +28,12 @@ Manual testing of **login and Sign Up modules** for **https://www.aarong.com/bgd
 - **Test Plan:** Scope, objectives, and testing approach (Google Docs)
   <img width="830" height="472" alt="image" src="https://github.com/user-attachments/assets/809e8de8-6976-4699-9624-44686ab3315a" />
   <img width="545" height="520" alt="image" src="https://github.com/user-attachments/assets/f8c9f6f5-a385-4bdf-b225-d35fbf96aba9" />
-
--**Test Scenario:**Login & Signup
+  
+- **Test Scenario:** Login & Signup
 
  <img width="557" height="458" alt="image" src="https://github.com/user-attachments/assets/9971b491-a647-4529-9a41-1f6d0c9fecfa" />
 
--**Mind Map:**Login & Sign UP(Xmind)
+- **Mind Map:** Login & Sign UP(Xmind)
 
  <img width="626" height="597" alt="Aarong Mind Map(L   S)" src="https://github.com/user-attachments/assets/d3203d5c-a8de-4413-bc4c-058a21c2a62e" />
 

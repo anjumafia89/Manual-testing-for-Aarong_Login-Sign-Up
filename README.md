@@ -29,6 +29,9 @@ Manual testing of **login and Sign Up modules** for **https://www.aarong.com/bgd
   <img width="830" height="472" alt="image" src="https://github.com/user-attachments/assets/809e8de8-6976-4699-9624-44686ab3315a" />
   <img width="545" height="520" alt="image" src="https://github.com/user-attachments/assets/f8c9f6f5-a385-4bdf-b225-d35fbf96aba9" />
 
+-Test Scenario
+
+ <img width="557" height="458" alt="image" src="https://github.com/user-attachments/assets/9971b491-a647-4529-9a41-1f6d0c9fecfa" />
 
 -**Mind Map:**Login & Sign UP(Xmind)
 
@@ -47,7 +50,10 @@ Embed Link:
   https://afiasworkspace-36246081.atlassian.net/jira/software/projects/AARONG/list?jql=project+%3D+AARONG+AND+createdDate+%3E%3D+-1w+ORDER+BY+cf%5B10039%5D+ASC%2C+priority+DESC&atlOrigin=eyJpIjoiOWM0Yjg2ZTk4OTM0NDM0NzlkNmNlZDRlMjYzNzg1NTYiLCJwIjoiaiJ9
   
   
-- **RTM:** Requirement Traceability Matrix linking requirements to test cases (Excel)  
+- **RTM:** Requirement Traceability Matrix linking requirements to test cases (Excel)
+
+  <img width="1075" height="353" alt="image" src="https://github.com/user-attachments/assets/d081c32a-587d-4314-a6f9-09c76993df3a" />
+
 
 ---
 
@@ -55,5 +61,5 @@ Embed Link:
 - Microsoft Excel  
 - Chrome DevTools  
 - Google Chrome  
-
+- JIRA
 ---

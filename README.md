@@ -31,20 +31,20 @@ Manual testing of **login and Sign Up modules** for **https://www.aarong.com/bgd
   
 - **Test Scenario:** Login & Signup
 
- <img width="557" height="458" alt="image" src="https://github.com/user-attachments/assets/9971b491-a647-4529-9a41-1f6d0c9fecfa" />
+  <img width="557" height="458" alt="image" src="https://github.com/user-attachments/assets/9971b491-a647-4529-9a41-1f6d0c9fecfa" />
 
 - **Mind Map:** Login & Sign UP(Xmind)
 
- <img width="626" height="597" alt="Aarong Mind Map(L   S)" src="https://github.com/user-attachments/assets/d3203d5c-a8de-4413-bc4c-058a21c2a62e" />
+  <img width="626" height="597" alt="Aarong Mind Map(L   S)" src="https://github.com/user-attachments/assets/d3203d5c-a8de-4413-bc4c-058a21c2a62e" />
 
    
 Embed Link:
-  https://app.xmind.com/embed/vmaG8kyW?sheet-id=34e508c5-955b-4ab0-93a2-94036e5eccd9
+   https://app.xmind.com/embed/vmaG8kyW?sheet-id=34e508c5-955b-4ab0-93a2-94036e5eccd9
 
 - **Bug Reports:** Detailed defects with severity and reproduction steps (JIRA)
    For sign up
   
-<img width="1098" height="401" alt="image" src="https://github.com/user-attachments/assets/43364193-6aa6-46aa-9e68-b69cf1d96216" />
+  <img width="1098" height="401" alt="image" src="https://github.com/user-attachments/assets/43364193-6aa6-46aa-9e68-b69cf1d96216" />
   
   JIRA link:
   https://afiasworkspace-36246081.atlassian.net/jira/software/projects/AARONG/list?jql=project+%3D+AARONG+AND+createdDate+%3E%3D+-1w+ORDER+BY+cf%5B10039%5D+ASC%2C+priority+DESC&atlOrigin=eyJpIjoiOWM0Yjg2ZTk4OTM0NDM0NzlkNmNlZDRlMjYzNzg1NTYiLCJwIjoiaiJ9
